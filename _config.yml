@@ -13,7 +13,7 @@ minimal_mistakes_skin: "default"  # Options: default, air, aqua, contrast, dark,
 # Author
 author:
   name: "Felix Steinberger"
-  avatar: "/assets/images/bio-photo.jpg"  # Add your photo later
+  avatar: "/images/bio-photo.jpg"  # Add your photo later
   bio: "Embedded software developer specializing in imaging systems, ISP, and camera drivers. Open source contributor."
   location: "Germany"
   links:
