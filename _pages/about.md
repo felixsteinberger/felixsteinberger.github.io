@@ -9,14 +9,6 @@ author_profile: true
 
 I'm an embedded software developer with over 10 years of experience specializing in camera-based color measurement systems using embedded Linux and STM32 microcontrollers.
 
-## Purpose-Driven Applications
-
-I'm particularly passionate about imaging applications that create meaningful impact:
-
-- **Agricultural technology** - Crop monitoring, disease detection, precision farming
-- **Environmental monitoring** - Wildlife cameras, habitat assessment, conservation
-- **Medical devices** - Diagnostic imaging, microscopy for underserved communities
-
 ## Technical Skills
 
 **Embedded Systems:**
